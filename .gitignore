@@ -2,4 +2,4 @@
 *.s#?
 *.pro
 *.job
-~$BIM.SLD*
+~$*.SLD*
