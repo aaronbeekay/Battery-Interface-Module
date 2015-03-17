@@ -3,3 +3,4 @@
 *.pro
 *.job
 *_UpdatePartNumAttributes.scr
+~$*.SLD*
