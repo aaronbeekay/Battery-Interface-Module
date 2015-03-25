@@ -4,3 +4,5 @@
 *.job
 *_UpdatePartNumAttributes.scr
 ~$*.SLD*
+*.gpi
+*.dri
