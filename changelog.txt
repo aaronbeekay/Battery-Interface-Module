@@ -1,0 +1,36 @@
+Changelog - Battery Interface Module
+
+# v1.0.0 (r01)
+Initial version.
+
+# v1.0.1 (r02)
+Bugfixes.
+
+# v2.0.0
+BIM v2 is a redesign for RW-3.
+
+## Major changes
+* Redesign to be a 24-cell monitor (not 36).
+* Remove onboard balancing circuit.
+* Remove CAN auto-termination circuit and replace with termination switch.
+* Updated CAN communications circuit for improved robustness to electromagnetic noise.
+* Reduce size and height to integrate with RW-3 battery pack.
+
+## Detailed changelog
+* Update per-cell filter circuit to improve performance.
+* Remove one digital isolator -- no longer pass CONV, DRDY, FAULT, ALERT to host processor.
+* Update CAN circuit to use ISO1050 and add common-mode choke.
+* Change CAN/power connector to M12 circular connector.
+* Reduce power loss capacitance from 1000 uF to 200 uF.
+* Include series resistance in VBAT lines to '536A ICs in order to mitigate hot-plug inrush current device destruction issue.
+* Include per-cell Zener diodes before low-pass filter.
+* New form factor and mounting.
+* Added pogo-pin test points to improve debugging accessibility.
+* Call out commonly modified components (stack communication components, stack termination components) on silkscreen layer for convenience.
+* Reduce use of 0402-size components and eliminate 0402-size resistor arrays for reliability when hand soldered.
+* Remove CAN auto-termination circuit, add switch to terminate CAN.
+* Add "CAN-TX" LED. Remove one CPU-controlled LED.
+* Remove both pushbuttons.
+* Remove both pushbutton indicator lights.
+* JTAG header is now 0.05" pitch.
+* Add separate +5V rail to power SN65HVD1050 (CAN transceiver).
