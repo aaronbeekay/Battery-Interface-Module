@@ -34,3 +34,6 @@ BIM v2 is a redesign for RW-3.
 * Remove both pushbutton indicator lights.
 * JTAG header is now 0.05" pitch.
 * Add separate +5V rail to power SN65HVD1050 (CAN transceiver).
+
+#v2.0.1
+* Increase test point text size for legibility.
