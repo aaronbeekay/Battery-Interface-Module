@@ -1,0 +1,9 @@
+Qty	Description	Mfg Name	Part Num	VID	Vendor Part Num	Parts
+4	diode zener 18v 5w axial	ON Semiconductor	1N5355BRLG	DK	1N5355BRLGOSCT-ND	"D1, D2, D3, D4"
+1	"2.00mm Pitch MicroClasp? Wire-to-Board Header, Dual Row, Right Angle, 26 Circuits"	Molex	55959-2630	NW	95M2858	X1
+2	FUSE BRD MNT 500MA 125VAC 63VDC	Bel Fuse	C1Q 500	DK	507-1075-6-ND	"F1, F2"
+20	"Resistor, 1k ohm 63 mW, 1%, 0603"	Multicomp	MC0603WGF1001T5E-TC	NW	58K4448	"R1, R2, R3, R5, R6, R8, R9, R10, R12, R13, R15, R16, R17, R19, R20, R22, R23, R24, R26, R27"
+4	"Resistor, 10 ohm, 3W, 5%,"	Multicomp	MOR03SJ0100A19	NW	74M3341	"R7, R14, R21, R28"
+4	"CAPACITOR ALUM ELEC, 220UF, 63V, 20%, radial"	Panasonic	ECA-1JM221	NW	96K9194	"C1, C2, C3, C4"
+4	*	*	*	*	*	"U$6, U$7, U$8, U$10"
+1	"Header, Screw Terminal, 2-pos, 5mm"	TE Connectivity	282836-2	DK	A98076-ND	U$9
