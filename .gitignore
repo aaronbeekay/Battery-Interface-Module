@@ -1,0 +1,8 @@
+*.b#?
+*.s#?
+*.pro
+*.job
+*_UpdatePartNumAttributes.scr
+~$*.SLD*
+*.gpi
+*.dri
