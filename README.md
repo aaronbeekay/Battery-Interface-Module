@@ -3,8 +3,8 @@ Battery Interface Module (BIM)
 
 Battery Interface Module is a compact, 24-cell lithium battery cell monitor with an onboard microcontroller and CAN communications.
 
-![Image of BIM](https://raw.githubusercontent.com/aaronbeekay/Battery-Interface-Module/master/Documentation/BIM%20r02%20cut%20out%20400px.png)
-*Image: Battery Interface Module v1*
+![Image of BIM](https://github.com/aaronbeekay/Battery-Interface-Module/blob/master/Documentation/Battery%20Interface%20Module%20v2%20600x400.jpg?raw=true)
+*Image: Battery Interface Module v2*
 
 It's built to go on [Buckeye Current](http://current.osu.edu/)'s RW-series electric racing motorcycles. The latest version (v2.0) is designed to integrate with RW-3, a purpose-built racer for the Pikes Peak International Hill Climb.
 
