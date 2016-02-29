@@ -37,3 +37,6 @@ BIM v2 is a redesign for RW-3.
 
 #v2.0.1
 * Increase test point text size for legibility.
+
+# v2.0.2
+* Pull n-HSEL lines to n-LDOD instead of n-REG50 (resolves wake-from-sleep communications issue #7).
