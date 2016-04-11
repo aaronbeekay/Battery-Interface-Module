@@ -1,0 +1,8 @@
+Qty,Description,Mfg Name,Mfg part,Vendor,Vendor Part Num,Cost,Designator
+1,"Micro-Fit header, 6pos, vertical, through-hole, w/PCB polarizing peg, gold",Molex,43045-0613,NW,09H1482,1.7,X4
+1,"0.1"" Male Header - 2 rows, 14 positions (TI JTAG) - Through Hole, Vertical",FCI,67996-114HLF,NW,30M1973,0.717,X9
+1,"XH connector header, 2.5mm pitch, through-hole, vertical, 4 positions",JST,B4B-XH-A,NW,73M9436,0.162,X8
+2,"Schottky Rectifier, common cathode, Vf=800 mV, If = 200 mA, Vrrm = 30 V",Fairchild Semiconductor,BAT54C,NW,35C0398,0.024,"D1, D2"
+1,"Board-To-Board Connector, AMPMODU Mod II Series, Through Hole, Receptacle, 8, 2.54 mm",TE Connectivity,5-534206-4,NW,52K3741,0.779,X7
+3,"Micro-Fit BMI header, 6pos, vertical, female pins, gold, through hole",Molex,44769-0602,DK,WM1961-ND,2.65,"X1, X2, X3"
+3,"IC, Dual AND Gate, VSSOP-8",Texas Instruments,SN74LVC2G08DCU,NW,67K2861,0.309,"IC1, IC2, IC3"
