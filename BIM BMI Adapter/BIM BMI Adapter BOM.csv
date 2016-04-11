@@ -1,0 +1,6 @@
+Qty,Description,Mfg Name,Mfg part,Vendor,Vendor Part Num,Cost,Designator
+1,"IDC connector, wire-to-board, 14 positions, 0.025"" cable pitch",CNC Tech,3240-14-00,DK,1175-1665-ND,2.11,X4
+1,"Wire-to-board connector, AMPMODU Mod II series, 0.1"" pitch, male pins, right angle",TE Connectivity,5-103166-2,NW,74M8237,1.92,X1
+1,"Micro-Fit BMI header, 6pos, right-angle, male pins, gold",Molex,44428-0602,DK,WM2028-ND,2.2,X2
+1,"IDC socket, 14pos, 0.05"" pin pitch, 0.025"" cable pitch",CNC Tech,3230-14-0103-00,DK,1175-1648-ND,1.25,
+5,"Male header pins, 0.1"" breakaway type",,,,,,
