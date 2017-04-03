@@ -15,3 +15,5 @@ The Battery Interface Module is built on the TI BQ76PL536A battery-monitor IC. S
 * Onboard host processor to control battery interface, control balancing, and transmit data over CAN
 * Wide input voltage range (4-40 V)
 * Isolated interface to battery voltage monitors
+
+You can read more about the Battery Interface Module in the [Battery Interface Module design report]( https://github.com/aaronbeekay/Battery-Interface-Module/raw/master/Documentation/Battery%20Interface%20Module%20report.pdf).
